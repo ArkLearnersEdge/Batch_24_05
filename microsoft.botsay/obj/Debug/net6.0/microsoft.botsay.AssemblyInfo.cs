@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("microsoft.botsay")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a37b7e51b1fa7eb132eeec5fac84591853ee5d5d")]
 [assembly: System.Reflection.AssemblyProductAttribute("microsoft.botsay")]
 [assembly: System.Reflection.AssemblyTitleAttribute("microsoft.botsay")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
